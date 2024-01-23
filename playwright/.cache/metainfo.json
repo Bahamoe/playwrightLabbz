@@ -1,0 +1,57 @@
+{
+  "version": "1.41.1",
+  "viteVersion": "4.5.2",
+  "registerSourceHash": "45263e725305b9ae2cbe1030331e117aa24d05d4",
+  "components": [
+    {
+      "id": "_Users_martinmoe_Projects_my_playwright_app_src_components_Button_index_tsx_Button",
+      "importPath": "/Users/martinmoe/Projects/my-playwright-app/src/components/Button/index.tsx",
+      "isModuleOrAlias": false,
+      "remoteName": "Button"
+    }
+  ],
+  "sources": {
+    "/Users/martinmoe/Projects/my-playwright-app/playwright/index.html": {
+      "timestamp": 1705951009793.4036
+    },
+    "/Users/martinmoe/Projects/my-playwright-app/playwright/index.tsx": {
+      "timestamp": 1705951009794.1912
+    },
+    "/Users/martinmoe/Projects/my-playwright-app/node_modules/react/index.js": {
+      "timestamp": 1705950656265.0303
+    },
+    "/Users/martinmoe/Projects/my-playwright-app/node_modules/react-dom/client.js": {
+      "timestamp": 1705950656253.0938
+    },
+    "/Users/martinmoe/Projects/my-playwright-app/node_modules/react/cjs/react.production.min.js": {
+      "timestamp": 1705950657064.0527
+    },
+    "/Users/martinmoe/Projects/my-playwright-app/node_modules/react-dom/index.js": {
+      "timestamp": 1705950656264.734
+    },
+    "/Users/martinmoe/Projects/my-playwright-app/src/components/Button/index.tsx": {
+      "timestamp": 1705950781535.2607
+    },
+    "/Users/martinmoe/Projects/my-playwright-app/node_modules/react/jsx-runtime.js": {
+      "timestamp": 1705950656292.009
+    },
+    "/Users/martinmoe/Projects/my-playwright-app/node_modules/react-dom/cjs/react-dom.production.min.js": {
+      "timestamp": 1705950658232.7073
+    },
+    "/Users/martinmoe/Projects/my-playwright-app/node_modules/react/cjs/react-jsx-runtime.production.min.js": {
+      "timestamp": 1705950656473.3306
+    },
+    "/Users/martinmoe/Projects/my-playwright-app/node_modules/scheduler/index.js": {
+      "timestamp": 1705950656238.8044
+    },
+    "/Users/martinmoe/Projects/my-playwright-app/node_modules/scheduler/cjs/scheduler.production.min.js": {
+      "timestamp": 1705950656688.664
+    }
+  },
+  "deps": {
+    "/Users/martinmoe/Projects/my-playwright-app/src/components/Button/index.tsx": [
+      "/Users/martinmoe/Projects/my-playwright-app/src/components/Button/index.tsx",
+      "/Users/martinmoe/Projects/my-playwright-app/node_modules/react/jsx-runtime.js"
+    ]
+  }
+}
